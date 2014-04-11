@@ -97,7 +97,7 @@
 
 Αντίστοιχα, η εκτέλεση του προγράμματός σας θα πρέπει να γίνεται με την εντολή:
     ```
-    java -cp ".:lib/json.jar" Schulze -t example_elections.json
+    java -cp ".:lib/json.jar" Schulze example_elections.json
     ```
 
 Για να ελέγξετε το πρόγραμμά σας μπορείτε να χρησιμοποιήσετε τα αρχεία:
