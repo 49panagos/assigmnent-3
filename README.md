@@ -20,6 +20,8 @@
    [json.jar](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/json.jar)
    η οποία θα πρέπει να τοποθετηθεί σε έναν υποκατάλογο ``lib``
    του καταλόγου ``assignment-3``.
+   Το αρχείο ``json.jar`` είναι η μεταγλωττισμένη βιβλιοθήκη JSON από το
+   [JSON.org](http://www.json.org/java/)
 
 4. Ο μεταγλωττισμένος κώδικας του προγράμματος που θα γραφτεί θα
   πρέπει να βρίσκεται σε έναν υποκατάλογο ``bin`` του καταλόγου
@@ -104,5 +106,5 @@
 
 * [example_elections.json](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/example_elections.json)
 
-* [schulze_1.json](https://github.com/dmst-algorithms-course/assigmnent-2/blob/master/schulze_1.json)
+* [schulze_1.json](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/schulze_1.json)
 
