@@ -123,3 +123,28 @@
 
 * [schulze_1.json](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/schulze_1.json)
 
+* [example_elections_large.json](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/example_elections_large.json)
+
+Στο τελευταίο αρχείο τα αποτελέσματα θα πρέπει να είναι (με ενδεχομένως διαφορετική διάταξη των ονομάτων στην έξοδο):
+
+```
+Faustus Sergius Caudex = 10 [Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Italicus Curtius Nerva = 15 [Faustus Sergius Caudex, Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Claudius Nonious Salinator, Ducenius Tarquinius Centho, Marilinus Lenus Menus, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Severus Marcius Rex, Gaius Antonius Scipio, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Pius Valerius Blasio = 7 [Rufinus Lunius Purpureo, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus]
+Rufinus Lunius Purpureo = 4 [Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Julius Aurelius Longus, Marcus Calpurnius Maximus]
+Alpinus Sulpicious Fullo = 8 [Pius Valerius Blasio, Rufinus Lunius Purpureo, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus]
+Claudius Nonious Salinator = 11 [Faustus Sergius Caudex, Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Ducenius Tarquinius Centho = 5 [Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus]
+Marilinus Lenus Menus = 12 [Faustus Sergius Caudex, Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Claudius Nonious Salinator, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Ericus Vanus Derlindenus = 2 [Vibulius Camilius Glabrio, Julius Aurelius Longus]
+Vibulius Camilius Glabrio = 0 []
+Eurycles Curtius Piso = 16 [Faustus Sergius Caudex, Italicus Curtius Nerva, Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Claudius Nonious Salinator, Ducenius Tarquinius Centho, Marilinus Lenus Menus, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Severus Marcius Rex, Gaius Antonius Scipio, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Proculus Galerius Sura = 4 [Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Julius Aurelius Longus, Marcus Calpurnius Maximus]
+Quintus Cassius Elva = 17 [Faustus Sergius Caudex, Italicus Curtius Nerva, Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Claudius Nonious Salinator, Ducenius Tarquinius Centho, Marilinus Lenus Menus, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Eurycles Curtius Piso, Proculus Galerius Sura, Severus Marcius Rex, Gaius Antonius Scipio, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Severus Marcius Rex = 13 [Faustus Sergius Caudex, Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Claudius Nonious Salinator, Ducenius Tarquinius Centho, Marilinus Lenus Menus, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Gaius Antonius Scipio = 10 [Pius Valerius Blasio, Rufinus Lunius Purpureo, Alpinus Sulpicious Fullo, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus, Spartacus Locundus Ludens]
+Julius Aurelius Longus = 1 [Vibulius Camilius Glabrio]
+Marcus Calpurnius Maximus = 3 [Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Julius Aurelius Longus]
+Spartacus Locundus Ludens = 8 [Pius Valerius Blasio, Rufinus Lunius Purpureo, Ducenius Tarquinius Centho, Ericus Vanus Derlindenus, Vibulius Camilius Glabrio, Proculus Galerius Sura, Julius Aurelius Longus, Marcus Calpurnius Maximus]
+```
+
