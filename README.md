@@ -123,7 +123,7 @@
 
 * [schulze_1.json](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/schulze_1.json)
 
-* [example_elections_large.json](https://github.com/dmst-algorithms-course/assigmnent-3/blob/master/example_elections_large.json)
+* [example_elections_large.json](https://raw.githubusercontent.com/dmst-algorithms-course/assigmnent-3/master/example_elections_large.json)
 
 Στο τελευταίο αρχείο τα αποτελέσματα θα πρέπει να είναι (με ενδεχομένως διαφορετική διάταξη των ονομάτων στην έξοδο):
 
